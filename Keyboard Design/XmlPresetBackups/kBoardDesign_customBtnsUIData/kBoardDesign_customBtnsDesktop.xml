@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptFloatingTile" id="FloatingTile1" x="1.0" y="80.0"
+             ContentType="Keyboard" bgColour="4284769380" itemColour="452984831"
+             itemColour2="4294967295" textColour="4294951115" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14.0,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: true,&#13;&#10;  &quot;LowKey&quot;: 12,&#13;&#10;  &quot;HiKey&quot;: 72,&#13;&#10;  &quot;CustomGraphics&quot;: true,&#13;&#10;  &quot;DefaultAppearance&quot;: false,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.65,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: false,&#13;&#10;  &quot;UseFlatStyle&quot;: true,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
+             width="500.0" height="80.0"/>
+  <Component type="ScriptFloatingTile" id="FloatingTile2" x="0.0" y="0.0"
+             ContentType="Keyboard" bgColour="4284769380" itemColour="452984831"
+             itemColour2="4294967295" textColour="4294951115" Data="{&#13;&#10;  &quot;KeyWidth&quot;: 14.0,&#13;&#10;  &quot;DisplayOctaveNumber&quot;: false,&#13;&#10;  &quot;LowKey&quot;: 12,&#13;&#10;  &quot;HiKey&quot;: 72,&#13;&#10;  &quot;CustomGraphics&quot;: false,&#13;&#10;  &quot;DefaultAppearance&quot;: true,&#13;&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#13;&#10;  &quot;ToggleMode&quot;: false,&#13;&#10;  &quot;MidiChannel&quot;: 1,&#13;&#10;  &quot;UseVectorGraphics&quot;: true,&#13;&#10;  &quot;UseFlatStyle&quot;: false,&#13;&#10;  &quot;MPEKeyboard&quot;: false,&#13;&#10;  &quot;MPEStartChannel&quot;: 2,&#13;&#10;  &quot;MPEEndChannel&quot;: 16&#13;&#10;}"
+             width="500.0" height="71.0"/>
+  <Component type="ScriptButton" id="btnNote0" x="138.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote1" x="150.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote2" x="162.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote3" x="174.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote4" x="186.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote5" x="198.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote6" x="210.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote7" x="222.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote8" x="234.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote9" x="246.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote10" x="258.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote11" x="270.0" y="177.0" width="12.0"
+             height="80.0" filmstripImage="{PROJECT_FOLDER}wKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote12" x="146.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote13" x="158.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote14" x="182.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote15" x="194.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote16" x="206.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote19" x="266.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote20" x="242.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+  <Component type="ScriptButton" id="btnNote21" x="230.0" y="177.0" width="10"
+             height="56" filmstripImage="{PROJECT_FOLDER}wbKeyBtn3.png" numStrips="6"
+             isMomentary="1"/>
+</ContentProperties>
